@@ -1,6 +1,6 @@
 # 🗒 ToDo App 
 ---
-## 👉🏻 [Live Site](https://sanstodo.herokuapp.com/)
+## 👉🏻 [Live Site](https://sanstodo.herokuapp.com/) (may not work as Heroku free postgres dyno policy change)
 
 A ToDo application made using python-django with a complete backend which supports user authentication and registration with user context specific data i.e, IDs. The generic class bases views in django are used to implement CRUD operations on list items. Login is handled by the imported LoginRequiredMixin.  
 Database used is **Postgresql**.   
